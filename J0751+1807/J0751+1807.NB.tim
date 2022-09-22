@@ -1,4 +1,5 @@
 FORMAT 1
+MODE 1
 J0751+1807_58251.451248_1460.rfiClean.fits.tmp 1372.451172 58251.460543992024664  15.823  gmrt  -fe uGMRT_B5 -be GWB -f uGMRT_B5_GWB -bw 25 -tobs 1620 -tmplt J0751+1807_b5_200.UB301.0001_0000.std -gof 1.6 -nbin 32 -nch 256 -prof_snr 18.80 -pta InPTA -sys GM_GWB_1460_100_b1 -group GM_GWB_1460_100_b1_pre36 -bandno 5
 C J0751+1807_58251.451248_1460.rfiClean.fits.tmp 1397.451172 58251.460543964433392  59.318  gmrt  -fe uGMRT_B5 -be GWB -f uGMRT_B5_GWB -bw 25 -tobs 1620 -tmplt J0751+1807_b5_200.UB301.0001_0000.std -gof 0.733 -nbin 32 -nch 256 -prof_snr 2.43 -pta InPTA -sys GM_GWB_1460_100_b1 -group GM_GWB_1460_100_b1_pre36 -bandno 5
 J0751+1807_58251.451248_1460.rfiClean.fits.tmp 1422.451172 58251.460543978951456  10.599  gmrt  -fe uGMRT_B5 -be GWB -f uGMRT_B5_GWB -bw 25 -tobs 1620 -tmplt J0751+1807_b5_200.UB301.0001_0000.std -gof 0.435 -nbin 32 -nch 256 -prof_snr 20.24 -pta InPTA -sys GM_GWB_1460_100_b1 -group GM_GWB_1460_100_b1_pre36 -bandno 5
