@@ -1,6 +1,5 @@
 FORMAT 1
 MODE 1
-T2EFAC -sys GM_GWB_500_200_b1 2.2
  J2145-0750_58260.123066_500.rfiClean.fits.tmp.tmp 403.07617200 58260.12998869171350691 4.00900 gmrt -fe uGMRT_B3 -be GWB -f uGMRT_B3_GWB -bw 6.25 -tobs 1199.9 -tmplt J2145-0750_b3_200.UB103.0001_0001.83 -gof 1.83 -nbin 128 -nch 64 -prof_snr 87.21 -pta InPTA -sys GM_GWB_500_100_b1 -group GM_GWB_500_100_b1_pre36 -bandno 3 
  J2145-0750_58260.123066_500.rfiClean.fits.tmp.tmp 409.32617200 58260.12998879686080755 2.87200 gmrt -fe uGMRT_B3 -be GWB -f uGMRT_B3_GWB -bw 6.25 -tobs 1199.9 -tmplt J2145-0750_b3_200.UB103.0001_0001.25 -gof 1.25 -nbin 128 -nch 64 -prof_snr 169.21 -pta InPTA -sys GM_GWB_500_100_b1 -group GM_GWB_500_100_b1_pre36 -bandno 3 
  J2145-0750_58260.123066_500.rfiClean.fits.tmp.tmp 415.57617200 58260.12998871989877969 2.07400 gmrt -fe uGMRT_B3 -be GWB -f uGMRT_B3_GWB -bw 6.25 -tobs 1199.9 -tmplt J2145-0750_b3_200.UB103.0001_0001.28 -gof 1.28 -nbin 128 -nch 64 -prof_snr 349.15 -pta InPTA -sys GM_GWB_500_100_b1 -group GM_GWB_500_100_b1_pre36 -bandno 3 
